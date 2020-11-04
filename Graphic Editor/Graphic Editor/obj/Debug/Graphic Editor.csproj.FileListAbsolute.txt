@@ -1,0 +1,9 @@
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\bin\Debug\Graphic Editor.exe.config
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\bin\Debug\Graphic Editor.exe
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\bin\Debug\Graphic Editor.pdb
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.csprojAssemblyReference.cache
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\obj\Debug\Graphic_Editor.Properties.Resources.resources
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.csproj.GenerateResource.cache
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.exe
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.pdb
+C:\Users\amd\source\repos\Graphic Editor\Graphic Editor\obj\Debug\Graphic_Editor.Form1.resources
